@@ -21,11 +21,11 @@ To run the Simon Says Game locally on your machine, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/simon-says-game.git
+    git clone https://github.com/vimalbhoutekar/Simon-Says-Game.git
     ```
 2. **Navigate to the project directory:**
     ```bash
-    cd simon-says-game
+    cd Simon-Says-Game
     ```
 
 3. **Open `index.html` in your web browser:**
@@ -62,19 +62,13 @@ Once you have the game open in your browser:
 
 ### Screenshots
 
-#### Start Screen
-![Start Screen](path/to/start_screen.png)
-
-#### During Gameplay
-![Gameplay](path/to/gameplay.png)
-
-#### Game Over Screen
-![Game Over Screen](path/to/game_over_screen.png)
+![image](https://github.com/vimalbhoutekar/Simon-Says-Game/assets/116987522/7dac8931-5736-448e-ab47-92e57f9bf9fd)
 
 ### Videos
 
 #### Gameplay Demonstration
-[![Gameplay Video](path/to/video_thumbnail.png)](path/to/gameplay_video.mp4)
+
+https://github.com/vimalbhoutekar/Simon-Says-Game/assets/116987522/00519348-99e3-4408-a510-514e572e240f
 
 ## Files
 
@@ -92,6 +86,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
